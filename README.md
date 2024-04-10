@@ -10,3 +10,7 @@ An application sends OSC and receives NDI source from any device.
 
 ## How to download
 Released on the Apple App Store.    
+<img width="400" alt="Screenshot 2024-04-11 at 3 41 24 AM" src="https://github.com/gwangyu-lee/iControl-OSC-NDI/assets/79373845/ecf6f108-79eb-4308-a563-72708aa3de65">
+
+## Available for Apple Vision Pro
+![visionOS1_1](https://github.com/gwangyu-lee/iControl-OSC-NDI/assets/79373845/8143911d-5e7d-4e83-aefe-ac0a3e24070b)
